@@ -1,0 +1,15 @@
+C:\Users\kyler\OneDrive\Desktop\PathfindingLib\PathfindingLib\bin\Debug\net6.0\PathfindingLib.exe
+C:\Users\kyler\OneDrive\Desktop\PathfindingLib\PathfindingLib\bin\Debug\net6.0\PathfindingLib.deps.json
+C:\Users\kyler\OneDrive\Desktop\PathfindingLib\PathfindingLib\bin\Debug\net6.0\PathfindingLib.runtimeconfig.json
+C:\Users\kyler\OneDrive\Desktop\PathfindingLib\PathfindingLib\bin\Debug\net6.0\PathfindingLib.dll
+C:\Users\kyler\OneDrive\Desktop\PathfindingLib\PathfindingLib\bin\Debug\net6.0\PathfindingLib.pdb
+C:\Users\kyler\OneDrive\Desktop\PathfindingLib\PathfindingLib\obj\Debug\net6.0\PathfindingLib.csproj.AssemblyReference.cache
+C:\Users\kyler\OneDrive\Desktop\PathfindingLib\PathfindingLib\obj\Debug\net6.0\PathfindingLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyler\OneDrive\Desktop\PathfindingLib\PathfindingLib\obj\Debug\net6.0\PathfindingLib.AssemblyInfoInputs.cache
+C:\Users\kyler\OneDrive\Desktop\PathfindingLib\PathfindingLib\obj\Debug\net6.0\PathfindingLib.AssemblyInfo.cs
+C:\Users\kyler\OneDrive\Desktop\PathfindingLib\PathfindingLib\obj\Debug\net6.0\PathfindingLib.csproj.CoreCompileInputs.cache
+C:\Users\kyler\OneDrive\Desktop\PathfindingLib\PathfindingLib\obj\Debug\net6.0\PathfindingLib.dll
+C:\Users\kyler\OneDrive\Desktop\PathfindingLib\PathfindingLib\obj\Debug\net6.0\refint\PathfindingLib.dll
+C:\Users\kyler\OneDrive\Desktop\PathfindingLib\PathfindingLib\obj\Debug\net6.0\PathfindingLib.pdb
+C:\Users\kyler\OneDrive\Desktop\PathfindingLib\PathfindingLib\obj\Debug\net6.0\PathfindingLib.genruntimeconfig.cache
+C:\Users\kyler\OneDrive\Desktop\PathfindingLib\PathfindingLib\obj\Debug\net6.0\ref\PathfindingLib.dll
