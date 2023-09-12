@@ -13,3 +13,18 @@ C:\Users\kyler\OneDrive\Desktop\PathfindingLib\PathfindingLib\obj\Debug\net6.0\r
 C:\Users\kyler\OneDrive\Desktop\PathfindingLib\PathfindingLib\obj\Debug\net6.0\PathfindingLib.pdb
 C:\Users\kyler\OneDrive\Desktop\PathfindingLib\PathfindingLib\obj\Debug\net6.0\PathfindingLib.genruntimeconfig.cache
 C:\Users\kyler\OneDrive\Desktop\PathfindingLib\PathfindingLib\obj\Debug\net6.0\ref\PathfindingLib.dll
+C:\Users\vlepa\OneDrive\Documents\Projet jeu vidéo\GitHub_TP02\TP02_Pathfinding\PathfindingLib\PathfindingLib\bin\Debug\net6.0\PathfindingLib.exe
+C:\Users\vlepa\OneDrive\Documents\Projet jeu vidéo\GitHub_TP02\TP02_Pathfinding\PathfindingLib\PathfindingLib\bin\Debug\net6.0\PathfindingLib.deps.json
+C:\Users\vlepa\OneDrive\Documents\Projet jeu vidéo\GitHub_TP02\TP02_Pathfinding\PathfindingLib\PathfindingLib\bin\Debug\net6.0\PathfindingLib.runtimeconfig.json
+C:\Users\vlepa\OneDrive\Documents\Projet jeu vidéo\GitHub_TP02\TP02_Pathfinding\PathfindingLib\PathfindingLib\bin\Debug\net6.0\PathfindingLib.dll
+C:\Users\vlepa\OneDrive\Documents\Projet jeu vidéo\GitHub_TP02\TP02_Pathfinding\PathfindingLib\PathfindingLib\bin\Debug\net6.0\PathfindingLib.pdb
+C:\Users\vlepa\OneDrive\Documents\Projet jeu vidéo\GitHub_TP02\TP02_Pathfinding\PathfindingLib\PathfindingLib\obj\Debug\net6.0\PathfindingLib.csproj.AssemblyReference.cache
+C:\Users\vlepa\OneDrive\Documents\Projet jeu vidéo\GitHub_TP02\TP02_Pathfinding\PathfindingLib\PathfindingLib\obj\Debug\net6.0\PathfindingLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlepa\OneDrive\Documents\Projet jeu vidéo\GitHub_TP02\TP02_Pathfinding\PathfindingLib\PathfindingLib\obj\Debug\net6.0\PathfindingLib.AssemblyInfoInputs.cache
+C:\Users\vlepa\OneDrive\Documents\Projet jeu vidéo\GitHub_TP02\TP02_Pathfinding\PathfindingLib\PathfindingLib\obj\Debug\net6.0\PathfindingLib.AssemblyInfo.cs
+C:\Users\vlepa\OneDrive\Documents\Projet jeu vidéo\GitHub_TP02\TP02_Pathfinding\PathfindingLib\PathfindingLib\obj\Debug\net6.0\PathfindingLib.csproj.CoreCompileInputs.cache
+C:\Users\vlepa\OneDrive\Documents\Projet jeu vidéo\GitHub_TP02\TP02_Pathfinding\PathfindingLib\PathfindingLib\obj\Debug\net6.0\PathfindingLib.dll
+C:\Users\vlepa\OneDrive\Documents\Projet jeu vidéo\GitHub_TP02\TP02_Pathfinding\PathfindingLib\PathfindingLib\obj\Debug\net6.0\refint\PathfindingLib.dll
+C:\Users\vlepa\OneDrive\Documents\Projet jeu vidéo\GitHub_TP02\TP02_Pathfinding\PathfindingLib\PathfindingLib\obj\Debug\net6.0\PathfindingLib.pdb
+C:\Users\vlepa\OneDrive\Documents\Projet jeu vidéo\GitHub_TP02\TP02_Pathfinding\PathfindingLib\PathfindingLib\obj\Debug\net6.0\PathfindingLib.genruntimeconfig.cache
+C:\Users\vlepa\OneDrive\Documents\Projet jeu vidéo\GitHub_TP02\TP02_Pathfinding\PathfindingLib\PathfindingLib\obj\Debug\net6.0\ref\PathfindingLib.dll

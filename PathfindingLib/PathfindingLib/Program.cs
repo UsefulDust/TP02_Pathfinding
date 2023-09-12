@@ -1,4 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-using PathfindingLib;
+﻿using PathfindingLib;
 
-Console.WriteLine("Hello, World!");

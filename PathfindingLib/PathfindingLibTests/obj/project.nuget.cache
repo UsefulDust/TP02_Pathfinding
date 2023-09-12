@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KvdBspOtoB6sJ0EHUx8h7xvFcoV00Gsp7FXLS1OQxHxIPjxCAJBP98Dq39L8Iu7AZ5JqVPQ/qeiFp4olcsEOuw==",
+  "dgSpecHash": "LgoMgDOx8AlI3tLeJc0BB3mS1JT4A+Sf2xEtQSdh0yuIl7lt0I2A6XumhsODGsYiQBr4SYQhmjAbcv00cPSSXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vlepa\\OneDrive\\Bureau\\PathfindingLib\\PathfindingLib\\PathfindingLibTests\\PathfindingLibTests.csproj",
+  "projectFilePath": "C:\\Users\\vlepa\\OneDrive\\Documents\\Projet jeu vidéo\\GitHub_TP02\\TP02_Pathfinding\\PathfindingLib\\PathfindingLibTests\\PathfindingLibTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vlepa\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\vlepa\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
